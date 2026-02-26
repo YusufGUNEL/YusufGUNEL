@@ -1,126 +1,107 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yusuf+Gunel&fontSize=52&fontColor=fff&fontAlignY=38&desc=AI+%26+Machine+Learning+%7C+Computer+Engineer&descSize=20&descAlignY=60&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Yusuf+Gunel&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer+Engineer+%7C+AI+%26+Machine+Learning&descSize=18&descAlignY=60&descAlign=50" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Merhaba%2C+Ben+Yusuf!+%F0%9F%91%8B;Bilgisayar+M%C3%BChendisi+%F0%9F%8E%93;Yapay+Zeka+%26+ML+Ara%C5%9Ft%C4%B1rmac%C4%B1s%C4%B1+%F0%9F%A4%96;Python+%7C+PyTorch+%7C+Scikit-learn+%E2%9C%A8;Her+g%C3%BCn+bir+%C5%9Feyler+%C3%B6%C4%9Freniyorum+%F0%9F%9A%80)](https://git.io/typing-svg)
+<br/>
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=7C83FD&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Developer;NLP+%7C+Deep+Learning+%7C+Computer+Vision;Building+intelligent+systems+that+matter.)](https://git.io/typing-svg)
 
----
+<br/>
 
-## 🧠 Hakkımda / About Me
-
-```python
-class YusufGunel:
-    def __init__(self):
-        self.name        = "Yusuf Günel"
-        self.role        = "Bilgisayar Mühendisi 🎓"
-        self.focus       = ["Yapay Zeka", "Makine Öğrenmesi", "Derin Öğrenme"]
-        self.languages   = ["Python 🐍", "C", "C++", "C#", "Java"]
-        self.web         = ["HTML", "CSS", "PHP"]
-        self.mobile      = ["Flutter", "Dart"]
-        self.currently   = "🤖 AI/ML projelerine odaklanıyorum"
-        self.looking_for = "Yapay Zeka alanında fırsatlar 🌟"
-        self.motto       = "Önce anla, sonra yaz. 💡"
-
-    def say_hi(self):
-        print("Profilime hoş geldin! Birlikte harika şeyler inşa edelim 🚀")
-
-me = YusufGunel()
-me.say_hi()
-```
-
----
-
-## 🚀 Teknoloji Yığını / Tech Stack
-
-<div align="center">
-
-### 🤖 Yapay Zeka & Veri Bilimi
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 💻 Programlama Dilleri
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🌐 Web & Mobil
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🛠️ Araçlar & Ortam
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-g%C3%BCnel/)
+[![GitHub followers](https://img.shields.io/github/followers/MANOROMAN?style=flat-square&color=7C83FD&label=Followers)](https://github.com/MANOROMAN)
+![Profile Views](https://komarev.com/ghpvc/?username=MANOROMAN&style=flat-square&color=7C83FD&label=Profile+Views)
 
 </div>
 
+<br/>
+
 ---
 
-## 📊 GitHub İstatistikleri / GitHub Stats
+### About Me
+
+I am a **Computer Engineering** graduate with a deep focus on **Artificial Intelligence** and **Machine Learning**. I enjoy designing end-to-end ML pipelines — from raw data preprocessing to model deployment — and working on projects that solve meaningful real-world problems.
+
+- Specializing in **NLP**, **Deep Learning**, and **Data Science**
+- Experience with classification, regression, and sequence modeling tasks
+- Built projects ranging from Turkish NLP systems to computer vision applications
+- Actively exploring opportunities in AI/ML research and engineering
+
+<br/>
+
+---
+
+### Tech Stack
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MANOROMAN&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&date_format=j%20M%5B%20Y%5D" />
+
+**AI & Data Science**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow,jupyter&perrow=8" />
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java&perrow=8" />
+
+**Web & Mobile**
+
+<img src="https://skillicons.dev/icons?i=html,css,php,flutter,dart,js&perrow=8" />
+
+**Tools & Environment**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perrow=8" />
+
+</div>
+
+<br/>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=MANOROMAN&theme=dark&hide_border=true&background=0D1117&stroke=7C83FD&ring=7C83FD&fire=FF6B6B&currStreakLabel=7C83FD&sideLabels=7C83FD&dates=888&date_format=j+M%5B+Y%5D" />
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MANOROMAN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=7200" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANOROMAN&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=7200" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MANOROMAN&show_icons=true&theme=dark&hide_border=true&icon_color=7C83FD&title_color=7C83FD&text_color=c9d1d9&bg_color=0D1117&include_all_commits=true&count_private=true&cache_seconds=7200" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANOROMAN&layout=compact&langs_count=7&theme=dark&hide_border=true&title_color=7C83FD&text_color=c9d1d9&bg_color=0D1117&cache_seconds=7200" />
 </div>
+
+<br/>
 
 ---
 
-## 🌟 Öne Çıkan Projeler / Featured Projects
+### Featured Projects
 
 <div align="center">
 
-[![ExpiryAlert](https://github-readme-stats.vercel.app/api/pin/?username=MANOROMAN&repo=ExpiryAlert&theme=tokyonight&hide_border=true&cache_seconds=7200)](https://github.com/MANOROMAN/ExpiryAlert)
-[![TankTespit](https://github-readme-stats.vercel.app/api/pin/?username=MANOROMAN&repo=TankTespit&theme=tokyonight&hide_border=true&cache_seconds=7200)](https://github.com/MANOROMAN/TankTespit)
+[![ExpiryAlert](https://github-readme-stats.vercel.app/api/pin/?username=MANOROMAN&repo=ExpiryAlert&theme=dark&hide_border=true&title_color=7C83FD&icon_color=7C83FD&text_color=c9d1d9&bg_color=0D1117&cache_seconds=7200)](https://github.com/MANOROMAN/ExpiryAlert)
+[![TankTespit](https://github-readme-stats.vercel.app/api/pin/?username=MANOROMAN&repo=TankTespit&theme=dark&hide_border=true&title_color=7C83FD&icon_color=7C83FD&text_color=c9d1d9&bg_color=0D1117&cache_seconds=7200)](https://github.com/MANOROMAN/TankTespit)
 
-[![NLP_Project](https://github-readme-stats.vercel.app/api/pin/?username=MANOROMAN&repo=NLP_Project&theme=tokyonight&hide_border=true&cache_seconds=7200)](https://github.com/MANOROMAN/NLP_Project)
-[![HandSpeak](https://github-readme-stats.vercel.app/api/pin/?username=MANOROMAN&repo=HandSpeak&theme=tokyonight&hide_border=true&cache_seconds=7200)](https://github.com/MANOROMAN/HandSpeak)
+[![NLP_Project](https://github-readme-stats.vercel.app/api/pin/?username=MANOROMAN&repo=NLP_Project&theme=dark&hide_border=true&title_color=7C83FD&icon_color=7C83FD&text_color=c9d1d9&bg_color=0D1117&cache_seconds=7200)](https://github.com/MANOROMAN/NLP_Project)
+[![HandSpeak](https://github-readme-stats.vercel.app/api/pin/?username=MANOROMAN&repo=HandSpeak&theme=dark&hide_border=true&title_color=7C83FD&icon_color=7C83FD&text_color=c9d1d9&bg_color=0D1117&cache_seconds=7200)](https://github.com/MANOROMAN/HandSpeak)
 
 </div>
+
+<br/>
 
 ---
 
-## 📈 Aktivite Grafiği / Activity Graph
+### Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MANOROMAN&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MANOROMAN&theme=react-dark&hide_border=true&bg_color=0D1117&color=7C83FD&line=7C83FD&point=FF6B6B&area=true&area_color=7C83FD" />
 </div>
 
----
-
-## 📫 İletişim / Contact
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-g%C3%BCnel/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MANOROMAN)
-
-</div>
+<br/>
 
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=MANOROMAN&color=58A6FF&style=for-the-badge&label=Profil+G%C3%B6r%C3%BCnt%C3%BClenme)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=90&section=footer" />
 </div>
