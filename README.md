@@ -84,7 +84,7 @@ I am a **Computer Engineering** graduate with a deep focus on **Artificial Intel
 ### Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MANOROMAN/MANOROMAN/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+  <img src="https://raw.githubusercontent.com/MANOROMAN/MANOROMAN/main/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </div>
 
 <br/>
