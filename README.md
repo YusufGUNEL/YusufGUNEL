@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yusuf%20G%C3%BCnel&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20%7C%20Computer%20Engineer&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yusuf+Gunel&fontSize=52&fontColor=fff&fontAlignY=38&desc=AI+%26+Machine+Learning+%7C+Computer+Engineer&descSize=20&descAlignY=60&descAlign=50" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Merhaba%2C+Ben+Yusuf!+%F0%9F%91%8B;Bilgisayar+M%C3%BChendisi+%F0%9F%8E%93;Yapay+Zeka+%26+ML+Ara%C5%9Ft%C4%B1rmac%C4%B1s%C4%B1+%F0%9F%A4%96;Python+%7C+PyTorch+%7C+Scikit-learn+%E2%9C%A8;Her+g%C3%BCn+bir+%C5%9Feyler+%C3%B6%C4%9Freniyorum+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Merhaba%2C+Ben+Yusuf!+%F0%9F%91%8B;Bilgisayar+M%C3%BChendisi+%F0%9F%8E%93;Yapay+Zeka+%26+ML+Ara%C5%9Ft%C4%B1rmac%C4%B1s%C4%B1+%F0%9F%A4%96;Python+%7C+PyTorch+%7C+Scikit-learn+%E2%9C%A8;Her+g%C3%BCn+bir+%C5%9Feyler+%C3%B6%C4%9Freniyorum+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +18,7 @@ class YusufGunel:
         self.focus       = ["Yapay Zeka", "Makine Öğrenmesi", "Derin Öğrenme"]
         self.languages   = ["Python 🐍", "C", "C++", "C#", "Java"]
         self.web         = ["HTML", "CSS", "PHP"]
-        self.mobile      = ["Flutter"]
+        self.mobile      = ["Flutter", "Dart"]
         self.currently   = "🤖 AI/ML projelerine odaklanıyorum"
         self.looking_for = "Yapay Zeka alanında fırsatlar 🌟"
         self.motto       = "Önce anla, sonra yaz. 💡"
@@ -56,6 +56,8 @@ me.say_hi()
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🛠️ Araçlar & Ortam
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -70,18 +72,14 @@ me.say_hi()
 ## 📊 GitHub İstatistikleri / GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MANOROMAN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANOROMAN&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MANOROMAN&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+  <img src="https://streak-stats.demolab.com?user=MANOROMAN&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MANOROMAN&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MANOROMAN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=7200" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANOROMAN&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=7200" />
 </div>
 
 ---
@@ -90,30 +88,20 @@ me.say_hi()
 
 <div align="center">
 
-[![BelediyeAI](https://github-readme-stats.vercel.app/api/pin/?username=MANOROMAN&repo=BelediyeAI-Sikayet-Triaj&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/MANOROMAN/BelediyeAI-Sikayet-Triaj)
-[![RUL-Tahmin](https://github-readme-stats.vercel.app/api/pin/?username=MANOROMAN&repo=RUL-Tahmin-CMAPSS&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/MANOROMAN/RUL-Tahmin-CMAPSS)
+[![ExpiryAlert](https://github-readme-stats.vercel.app/api/pin/?username=MANOROMAN&repo=ExpiryAlert&theme=tokyonight&hide_border=true&cache_seconds=7200)](https://github.com/MANOROMAN/ExpiryAlert)
+[![TankTespit](https://github-readme-stats.vercel.app/api/pin/?username=MANOROMAN&repo=TankTespit&theme=tokyonight&hide_border=true&cache_seconds=7200)](https://github.com/MANOROMAN/TankTespit)
+
+[![NLP_Project](https://github-readme-stats.vercel.app/api/pin/?username=MANOROMAN&repo=NLP_Project&theme=tokyonight&hide_border=true&cache_seconds=7200)](https://github.com/MANOROMAN/NLP_Project)
+[![HandSpeak](https://github-readme-stats.vercel.app/api/pin/?username=MANOROMAN&repo=HandSpeak&theme=tokyonight&hide_border=true&cache_seconds=7200)](https://github.com/MANOROMAN/HandSpeak)
 
 </div>
-
-| Proje | Açıklama | Teknolojiler |
-|-------|----------|--------------|
-| 🏙️ **BelediyeAI** | Türkçe belediye şikayetlerini NLP ile otomatik sınıflandıran sistem | `Python` `TF-IDF` `Scikit-learn` `Streamlit` |
-| ✈️ **RUL Tahmin** | NASA C-MAPSS verisiyle türbin motoru ömür tahmini | `Python` `PyTorch` `CNN-LSTM` |
 
 ---
 
 ## 📈 Aktivite Grafiği / Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MANOROMAN&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" />
-</div>
-
----
-
-## 🐍 Katkı Yılanı / Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MANOROMAN/MANOROMAN/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MANOROMAN&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true" />
 </div>
 
 ---
