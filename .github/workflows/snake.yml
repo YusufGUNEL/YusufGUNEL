@@ -13,7 +13,6 @@ name: Generate Snake
           with:
             github_user_name: MANOROMAN
             outputs: |
-              dist/github-contribution-grid-snake.svg
               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         - uses: crazy-max/ghaction-github-pages@v3.1.0
           with:
