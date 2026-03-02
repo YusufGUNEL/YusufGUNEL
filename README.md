@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=180&amp;section=header&amp;text=Yusuf%20Gunel&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Computer%20Engineer%20%7C%20AI%20%26%20ML%20%7C%20Embedded%20Systems&amp;descSize=18&amp;descAlignY=58&amp;descAlign=50" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Yusuf%20Gunel&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineer%20%7C%20AI%20%2F%20ML%20%7C%20Embedded%20Systems&descSize=18&descAlignY=58&descAlign=50" width="100%" alt="header" />
 
 <br/>
 
@@ -26,14 +26,14 @@
 
 ### 🧑‍💻 About Me
 
-I am a **Computer Engineering** graduate with a strong focus on **Artificial Intelligence**, **Machine Learning**, and **Embedded Systems**. I design end-to-end ML pipelines — from raw data preprocessing to model deployment — and develop intelligent systems that solve meaningful real-world problems.
+Bilgisayar Mühendisliği mezunuyum. Yapay zeka, makine öğrenmesi ve gömülü sistemler alanlarında çalışıyorum. Veriyi işlemekten modeli deploy etmeye kadar bütün süreci kendi başıma yürütebiliyorum.
 
-- 🤖 Specializing in **NLP**, **Deep Learning**, **Computer Vision**, and **Data Science**
-- 📱 Building cross-platform mobile applications with **Flutter** and **Java**
-- ⚙️ Experienced in **Embedded Systems** development with **ESP32**, **STM32**, and **Arduino**
-- 🧠 Experience with classification, regression, sequence modeling, and object detection tasks
-- 🔬 Built projects from Turkish NLP systems to real-time computer vision applications
-- 🎯 Actively exploring opportunities in AI/ML research and software engineering
+- 🤖 **NLP**, **Deep Learning**, **Computer Vision** — bu alanlarda projeler geliştirdim
+- 📱 **Flutter** ve **Java** ile mobil uygulama geliştiriyorum
+- ⚙️ **ESP32**, **STM32**, **Arduino** ile gömülü sistem projeleri yaptım
+- 🧠 Sınıflandırma, regresyon, nesne tespiti ve dizi modelleme konularında deneyimim var
+- 🔬 Türkçe NLP sistemlerinden gerçek zamanlı görüntü işleme projelerine kadar farklı alanlarda çalıştım
+- 🎯 AI/ML alanında araştırma ve mühendislik fırsatları arıyorum
 
 <br/>
 
@@ -107,12 +107,12 @@ I am a **Computer Engineering** graduate with a strong focus on **Artificial Int
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MANOROMAN&amp;show_icons=true&amp;hide_border=true&amp;title_color=7C83FD&amp;icon_color=7C83FD&amp;text_color=c9d1d9&amp;bg_color=0D1117&amp;cache_seconds=7200" height="180" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANOROMAN&amp;layout=compact&amp;hide_border=true&amp;title_color=7C83FD&amp;text_color=c9d1d9&amp;bg_color=0D1117&amp;cache_seconds=7200" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=MANOROMAN&show_icons=true&hide_border=true&title_color=7C83FD&icon_color=7C83FD&text_color=c9d1d9&bg_color=0D1117&cache_seconds=7200" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANOROMAN&layout=compact&hide_border=true&title_color=7C83FD&text_color=c9d1d9&bg_color=0D1117&cache_seconds=7200" height="180" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MANOROMAN&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;ring=7C83FD&amp;fire=FF6B6B&amp;currStreakLabel=7C83FD&amp;sideLabels=7C83FD&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;dates=555555" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MANOROMAN&theme=dark&hide_border=true&background=0D1117&ring=7C83FD&fire=FF6B6B&currStreakLabel=7C83FD&sideLabels=7C83FD&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" />
 
 </div>
 
@@ -149,5 +149,5 @@ I am a **Computer Engineering** graduate with a strong focus on **Artificial Int
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=90&amp;section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=90&section=footer" width="100%" alt="footer" />
 </div>
