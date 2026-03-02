@@ -26,14 +26,14 @@
 
 ### 🧑‍💻 About Me
 
-Bilgisayar Mühendisliği mezunuyum. Yapay zeka, makine öğrenmesi ve gömülü sistemler alanlarında çalışıyorum. Veriyi işlemekten modeli deploy etmeye kadar bütün süreci kendi başıma yürütebiliyorum.
+Computer Engineering graduate working on AI, machine learning, and embedded systems. I handle the full pipeline — from data preprocessing to model deployment.
 
-- 🤖 **NLP**, **Deep Learning**, **Computer Vision** — bu alanlarda projeler geliştirdim
-- 📱 **Flutter** ve **Java** ile mobil uygulama geliştiriyorum
-- ⚙️ **ESP32**, **STM32**, **Arduino** ile gömülü sistem projeleri yaptım
-- 🧠 Sınıflandırma, regresyon, nesne tespiti ve dizi modelleme konularında deneyimim var
-- 🔬 Türkçe NLP sistemlerinden gerçek zamanlı görüntü işleme projelerine kadar farklı alanlarda çalıştım
-- 🎯 AI/ML alanında araştırma ve mühendislik fırsatları arıyorum
+- 🤖 Built projects in **NLP**, **Deep Learning**, and **Computer Vision**
+- 📱 Developing mobile apps with **Flutter** and **Java**
+- ⚙️ Hands-on experience with **ESP32**, **STM32**, and **Arduino**
+- 🧠 Worked on classification, regression, object detection, and sequence modeling
+- 🔬 Projects range from Turkish NLP systems to real-time image processing
+- 🎯 Looking for opportunities in AI/ML research and engineering
 
 <br/>
 
