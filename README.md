@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Yusuf%20Gunel&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineer%20%7C%20AI%20%2F%20ML%20%7C%20Embedded%20Systems&descSize=18&descAlignY=58&descAlign=50" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Yusuf%20Gunel&fontSize=48&fontColor=ffffff&fontAlignY=40" width="100%" alt="header" />
 
 <br/>
 
@@ -103,24 +103,7 @@ Bilgisayar Mühendisliği mezunuyum. Yapay zeka, makine öğrenmesi ve gömülü
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MANOROMAN&show_icons=true&hide_border=true&title_color=7C83FD&icon_color=7C83FD&text_color=c9d1d9&bg_color=0D1117&cache_seconds=7200" height="180" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANOROMAN&layout=compact&hide_border=true&title_color=7C83FD&text_color=c9d1d9&bg_color=0D1117&cache_seconds=7200" height="180" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MANOROMAN&theme=dark&hide_border=true&background=0D1117&ring=7C83FD&fire=FF6B6B&currStreakLabel=7C83FD&sideLabels=7C83FD&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
----
-
-### 🚀 Featured Projects
+###  Featured Projects
 
 <div align="center">
 
