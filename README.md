@@ -115,7 +115,7 @@ Flutter app for **sign language translation and learning** — interactive lesso
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YusufGUNEL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C83FD&icon_color=7C83FD&count_private=true&include_all_commits=true" alt="stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufGUNEL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C83FD&langs_count=8&hide=html,css,php" alt="languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YusufGUNEL&theme=tokyonight&hide_border=true&background=0d1117&ring=7C83FD&fire=a78bfa&currStreakLabel=7C83FD" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=YusufGUNEL&theme=tokyonight&hide_border=true&background=0d1117&ring=7C83FD&fire=a78bfa&currStreakLabel=7C83FD" alt="streak" />
 
 </div>
 
