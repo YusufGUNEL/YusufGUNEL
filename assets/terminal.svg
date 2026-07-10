@@ -1,0 +1,61 @@
+<svg width="920" height="330" viewBox="0 0 920 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="t1"><rect x="56" y="66" width="0" height="22"><animate attributeName="width" from="0" to="80" dur="0.7s" begin="0.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="t2"><rect x="56" y="126" width="0" height="22"><animate attributeName="width" from="0" to="130" dur="0.9s" begin="2.0s" fill="freeze"/></rect></clipPath>
+    <clipPath id="t3"><rect x="56" y="186" width="0" height="22"><animate attributeName="width" from="0" to="115" dur="0.8s" begin="3.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="t4"><rect x="56" y="246" width="0" height="22"><animate attributeName="width" from="0" to="115" dur="0.8s" begin="5.2s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <!-- window -->
+  <rect x="1" y="1" width="918" height="328" rx="14" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+  <path d="M1 15 A14 14 0 0 1 15 1 H905 A14 14 0 0 1 919 15 V40 H1 Z" fill="#161B22"/>
+  <line x1="1" y1="40" x2="919" y2="40" stroke="#30363D" stroke-width="1"/>
+  <circle cx="26" cy="21" r="6" fill="#FF5F57"/>
+  <circle cx="46" cy="21" r="6" fill="#FEBC2E"/>
+  <circle cx="66" cy="21" r="6" fill="#28C840"/>
+  <text x="460" y="26" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#8B949E">yusuf@ai-lab: ~</text>
+
+  <g font-family="Consolas, 'Courier New', monospace" font-size="15">
+    <!-- $ whoami -->
+    <text x="32" y="82" fill="#34D399" font-weight="bold">➜</text>
+    <text x="56" y="82" fill="#E6EDF3" clip-path="url(#t1)">whoami</text>
+    <text x="56" y="107" fill="#8B949E" opacity="0">
+      Yusuf GÜNEL — Computer Engineer · <tspan fill="#22D3EE">AI &amp; ML</tspan> · Ankara, TR
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.3s" fill="freeze"/>
+    </text>
+
+    <!-- $ cat focus.txt -->
+    <text x="32" y="142" fill="#34D399" font-weight="bold" opacity="0">➜<animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="1.9s" fill="freeze"/></text>
+    <text x="56" y="142" fill="#E6EDF3" clip-path="url(#t2)">cat focus.txt</text>
+    <text x="56" y="167" fill="#8B949E" opacity="0">
+      <tspan fill="#22D3EE">NLP</tspan> · <tspan fill="#818CF8">Computer Vision</tspan> · <tspan fill="#F472B6">Deep Learning</tspan> · <tspan fill="#34D399">GenAI</tspan>
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="3.1s" fill="freeze"/>
+    </text>
+
+    <!-- $ ls ~/toolbox -->
+    <text x="32" y="202" fill="#34D399" font-weight="bold" opacity="0">➜<animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="3.5s" fill="freeze"/></text>
+    <text x="56" y="202" fill="#E6EDF3" clip-path="url(#t3)">ls ~/toolbox</text>
+    <text x="56" y="227" fill="#8B949E" opacity="0">
+      python  pytorch  tensorflow  sklearn  opencv  django  flutter  dart  cpp  java  docker  git
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="4.6s" fill="freeze"/>
+    </text>
+
+    <!-- $ ./job_status -->
+    <text x="32" y="262" fill="#34D399" font-weight="bold" opacity="0">➜<animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="5.1s" fill="freeze"/></text>
+    <text x="56" y="262" fill="#E6EDF3" clip-path="url(#t4)">./job_status</text>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="6.2s" fill="freeze"/>
+      <circle cx="62" cy="282" r="5" fill="#28C840">
+        <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" begin="6.2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="78" y="287" fill="#28C840" font-weight="bold">OPEN TO WORK</text>
+      <text x="205" y="287" fill="#8B949E">— AI/ML Engineering roles</text>
+    </g>
+
+    <!-- blinking cursor -->
+    <rect x="56" y="298" width="9" height="17" fill="#22D3EE" opacity="0">
+      <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" begin="6.8s" repeatCount="indefinite"/>
+    </rect>
+    <text x="32" y="313" fill="#34D399" font-weight="bold" opacity="0">➜<animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="6.8s" fill="freeze"/></text>
+  </g>
+</svg>

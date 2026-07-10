@@ -1,0 +1,31 @@
+<svg width="440" height="200" viewBox="0 0 440 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F97316"/>
+      <stop offset="0.5" stop-color="#30363D"/>
+      <stop offset="1" stop-color="#F97316"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="gl" cx="100%" cy="0%" r="80%">
+      <stop offset="0%" stop-color="#F97316" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#F97316" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="438" height="198" rx="14" fill="#0D1117"/>
+  <rect x="1" y="1" width="438" height="198" rx="14" fill="url(#gl)"/>
+  <rect x="1" y="1" width="438" height="198" rx="14" stroke="url(#bd)" stroke-width="1.6"/>
+
+  <text x="26" y="44" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#E6EDF3">🤟  HandSpeak</text>
+  <text x="26" y="68" font-family="Consolas, 'Courier New', monospace" font-size="12.5" font-weight="600" fill="#F97316" letter-spacing="1">ACCESSIBILITY · SIGN LANGUAGE</text>
+  <rect x="26" y="78" width="52" height="2.5" rx="1.25" fill="#F97316">
+    <animate attributeName="width" values="52;110;52" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="26" y="106" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8B949E">Sign language translation and learning — interactive lessons,</text>
+  <text x="26" y="126" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8B949E">video practice tools and personalized profiles.</text>
+
+  <g><rect x="26" y="152" width="72" height="26" rx="13" fill="#F97316" fill-opacity="0.10" stroke="#F97316" stroke-opacity="0.45"/><text x="62.0" y="169" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#F97316">Flutter</text></g>
+  <g><rect x="108" y="152" width="79" height="26" rx="13" fill="#F97316" fill-opacity="0.10" stroke="#F97316" stroke-opacity="0.45"/><text x="147.5" y="169" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#F97316">Firebase</text></g>
+  <g><rect x="197" y="152" width="50" height="26" rx="13" fill="#F97316" fill-opacity="0.10" stroke="#F97316" stroke-opacity="0.45"/><text x="222.0" y="169" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#F97316">Dart</text></g>
+  <g><circle cx="382" cy="58" r="26" stroke="#F97316" stroke-opacity="0.35" stroke-dasharray="5 6" fill="none"><animateTransform attributeName="transform" type="rotate" from="0 382 58" to="360 382 58" dur="10s" repeatCount="indefinite"/></circle><circle cx="382" cy="58" r="7" fill="#F97316" fill-opacity="0.3" stroke="#F97316" stroke-width="2"/><circle cx="408" cy="58" r="4" fill="#F97316"><animateTransform attributeName="transform" type="rotate" from="0 382 58" to="360 382 58" dur="5s" repeatCount="indefinite"/></circle></g>
+</svg>

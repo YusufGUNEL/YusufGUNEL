@@ -1,0 +1,31 @@
+<svg width="440" height="200" viewBox="0 0 440 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#30363D"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="gl" cx="100%" cy="0%" r="80%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="438" height="198" rx="14" fill="#0D1117"/>
+  <rect x="1" y="1" width="438" height="198" rx="14" fill="url(#gl)"/>
+  <rect x="1" y="1" width="438" height="198" rx="14" stroke="url(#bd)" stroke-width="1.6"/>
+
+  <text x="26" y="44" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#E6EDF3">🏛️  BelediyeAI</text>
+  <text x="26" y="68" font-family="Consolas, 'Courier New', monospace" font-size="12.5" font-weight="600" fill="#22D3EE" letter-spacing="1">TURKISH NLP · COMPLAINT TRIAGE</text>
+  <rect x="26" y="78" width="52" height="2.5" rx="1.25" fill="#22D3EE">
+    <animate attributeName="width" values="52;110;52" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="26" y="106" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8B949E">Classifies municipal complaints into 10 categories and 4 priority</text>
+  <text x="26" y="126" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8B949E">levels — smart routing to the right department, end to end.</text>
+
+  <g><rect x="26" y="152" width="65" height="26" rx="13" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.45"/><text x="58.5" y="169" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#22D3EE">Python</text></g>
+  <g><rect x="101" y="152" width="108" height="26" rx="13" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.45"/><text x="155.0" y="169" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#22D3EE">scikit-learn</text></g>
+  <g><rect x="219" y="152" width="43" height="26" rx="13" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.45"/><text x="240.5" y="169" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#22D3EE">NLP</text></g>
+  <g><circle cx="355" cy="40" r="4" fill="#22D3EE"><animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/></circle><circle cx="400" cy="55" r="4" fill="#22D3EE"><animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="-0.7s" repeatCount="indefinite"/></circle><circle cx="365" cy="78" r="4" fill="#22D3EE"><animate attributeName="opacity" values="0.3;1;0.3" dur="2s" begin="-1.4s" repeatCount="indefinite"/></circle><line x1="355" y1="40" x2="400" y2="55" stroke="#22D3EE" stroke-opacity="0.4"/><line x1="400" y1="55" x2="365" y2="78" stroke="#22D3EE" stroke-opacity="0.4"/><line x1="355" y1="40" x2="365" y2="78" stroke="#22D3EE" stroke-opacity="0.4"/></g>
+</svg>
