@@ -1,136 +1,130 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Yusuf%20Gunel&fontSize=48&fontColor=ffffff&fontAlignY=40" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Yusuf%20G%C3%9CNEL&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=AI%20%26%20Machine%20Learning%20Engineer&descSize=18&descAlignY=62" width="100%" alt="header" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1200&color=7C83FD&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;NLP+%7C+Computer+Vision+%7C+Deep+Learning;Turkish+NLP+%E2%80%A2+Medical+AI+%E2%80%A2+Real-time+CV;Flutter+Developer+%7C+Embedded+Systems;Building+intelligent+systems+that+matter.)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-g%C3%BCnel/)
+[![Email](https://img.shields.io/badge/Email-Contact-7C83FD?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:yusufgunel71@hotmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=YusufGUNEL&color=7C83FD&style=for-the-badge&label=Views)](https://github.com/YusufGUNEL)
+
+</div>
+
+## 🧑‍💻 About Me
+
+Computer Engineering graduate focused on **AI & Machine Learning** — I build end-to-end intelligent systems, from data preprocessing to model deployment.
+
+- 🤖 Hands-on projects in **NLP** (Turkish text classification, speech-to-text), **Computer Vision** (medical imaging, real-time posture analysis) and **Deep Learning**
+- 📱 Cross-platform mobile apps with **Flutter** — including AI-native products
+- ⚙️ Embedded experience with **ESP32**, **STM32** and **Arduino**
+- 🎯 Currently looking for opportunities in **AI/ML engineering**
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1200&color=7C83FD&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Developer;Embedded+Systems+Engineer;NLP+%7C+Deep+Learning+%7C+Computer+Vision;Mobile+App+Developer+%7C+Flutter+%26+Java;Building+intelligent+systems+that+matter.)](https://git.io/typing-svg)
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ [BelediyeAI — Complaint Triage](https://github.com/YusufGUNEL/belediye-ai-sikayet-triaj)
+
+Turkish **NLP** system that automatically classifies municipal complaints into **10 categories & 4 priority levels** and routes them to the right department. Designed around a real-world use case (Ankara Metropolitan Municipality).
+
+`Python` `NLP` `Text Classification` `scikit-learn`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [MedOS — Stroke Detection](https://github.com/YusufGUNEL/MedOS-Stroke-Detection-V1)
+
+Neuro-diagnostic system for **automated stroke detection** from brain imaging. Deep learning pipeline wrapped in a clinical-style diagnostic interface.
+
+`Deep Learning` `Computer Vision` `Medical AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ [SpeechQuest — Speech-to-Text + QG](https://github.com/YusufGUNEL/NLP_Project)
+
+**Fully offline** speech-to-text and automatic **question generation** app. Transcribes audio files, YouTube URLs and live microphone input using local pre-trained models — no external APIs.
+
+`Python` `NLP` `React` `TailwindCSS`
+
+</td>
+<td width="50%" valign="top">
+
+### 🪑 [OfficeGuardian — Posture AI](https://github.com/YusufGUNEL/OfficeGuardian)
+
+Real-time **posture & attention analysis** through a standard webcam — no wearable sensors. Monitors workplace health and productivity with role-based dashboards.
+
+`Python` `Django` `OpenCV` `Real-time CV`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 [Vera — AI-Native Finance OS](https://github.com/YusufGUNEL/Vera)
+
+**BTK Hackathon** project: a next-generation, AI-native mobile financial OS prototype powered by **Gemini AI**, built with Flutter & Riverpod for Android, iOS, Web and Desktop.
+
+`Flutter` `Dart` `Gemini AI` `Riverpod`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤟 [HandSpeak — Sign Language App](https://github.com/YusufGUNEL/HandSpeak)
+
+Flutter app for **sign language translation and learning** — interactive lessons, translation, video practice tools and personalized profiles.
+
+`Flutter` `Dart` `Firebase` `Accessibility`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI/ML" />
+
+**Languages & Mobile**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,dart,flutter,js&theme=dark" alt="Languages" />
+
+**Backend, Embedded & Tools**
+
+<img src="https://skillicons.dev/icons?i=django,nestjs,docker,arduino,git,linux&theme=dark" alt="Tools" />
 
 </div>
 
 <br/>
 
----
-
-### 📫 Contact Me
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-g%C3%BCnel/)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YusufGUNEL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C83FD&icon_color=7C83FD&count_private=true&include_all_commits=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufGUNEL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C83FD&langs_count=8&hide=html,css,php" alt="languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YusufGUNEL&theme=tokyonight&hide_border=true&background=0d1117&ring=7C83FD&fire=a78bfa&currStreakLabel=7C83FD" alt="streak" />
 
 </div>
 
 <br/>
 
----
-
-### 🧑‍💻 About Me
-
-Computer Engineering graduate working on AI, machine learning, and embedded systems. I handle the full pipeline — from data preprocessing to model deployment.
-
-- 🤖 Built projects in **NLP**, **Deep Learning**, and **Computer Vision**
-- 📱 Developing mobile apps with **Flutter** and **Java**
-- ⚙️ Hands-on experience with **ESP32**, **STM32**, and **Arduino**
-- 🧠 Worked on classification, regression, object detection, and sequence modeling
-- 🔬 Projects range from Turkish NLP systems to real-time image processing
-- 🎯 Looking for opportunities in AI/ML research and engineering
-
-<br/>
-
----
-
-### 🛠️ Tech Stack
-
 <div align="center">
 
-#### 🤖 AI & Machine Learning
+<img src="https://raw.githubusercontent.com/YusufGUNEL/YusufGUNEL/main/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%" alt="footer" />
 
-<br/>
-
-#### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-<br/>
-
-#### 📱 Mobile Development
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-<br/>
-
-#### ⚙️ Embedded Systems
-
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-<br/>
-
-#### 🌐 Web Technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-<br/>
-
-#### 🔧 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-<br/>
-
----
-
-###  Featured Projects
-
-<div align="center">
-
-[![ExpiryAlert](https://github-readme-stats.vercel.app/api/pin/?username=MANOROMAN&repo=ExpiryAlert&theme=dark&hide_border=true&title_color=7C83FD&icon_color=7C83FD&text_color=c9d1d9&bg_color=0D1117&cache_seconds=7200)](https://github.com/MANOROMAN/ExpiryAlert)
-[![TankTespit](https://github-readme-stats.vercel.app/api/pin/?username=MANOROMAN&repo=TankTespit&theme=dark&hide_border=true&title_color=7C83FD&icon_color=7C83FD&text_color=c9d1d9&bg_color=0D1117&cache_seconds=7200)](https://github.com/MANOROMAN/TankTespit)
-
-[![NLP_Project](https://github-readme-stats.vercel.app/api/pin/?username=MANOROMAN&repo=NLP_Project&theme=dark&hide_border=true&title_color=7C83FD&icon_color=7C83FD&text_color=c9d1d9&bg_color=0D1117&cache_seconds=7200)](https://github.com/MANOROMAN/NLP_Project)
-[![HandSpeak](https://github-readme-stats.vercel.app/api/pin/?username=MANOROMAN&repo=HandSpeak&theme=dark&hide_border=true&title_color=7C83FD&icon_color=7C83FD&text_color=c9d1d9&bg_color=0D1117&cache_seconds=7200)](https://github.com/MANOROMAN/HandSpeak)
-
-</div>
-
-<br/>
-
----
-
-### 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <img src="https://raw.githubusercontent.com/MANOROMAN/MANOROMAN/main/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
-  </picture>
-</div>
-
-<br/>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=90&section=footer" width="100%" alt="footer" />
 </div>
