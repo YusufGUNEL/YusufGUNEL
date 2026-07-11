@@ -15,7 +15,8 @@
   <rect x="1" y="1" width="438" height="198" rx="14" fill="url(#gl)"/>
   <rect x="1" y="1" width="438" height="198" rx="14" stroke="url(#bd)" stroke-width="1.6"/>
 
-  <text x="26" y="44" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#E6EDF3">👁️  OfficeGuardian</text>
+  <rect x="26" y="30" width="4" height="18" rx="2" fill="#FBBF24"/>
+  <text x="40" y="45" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#E6EDF3">OfficeGuardian</text>
   <text x="26" y="68" font-family="Consolas, 'Courier New', monospace" font-size="12.5" font-weight="600" fill="#FBBF24" letter-spacing="1">REAL-TIME CV · WORKPLACE HEALTH</text>
   <rect x="26" y="78" width="52" height="2.5" rx="1.25" fill="#FBBF24">
     <animate attributeName="width" values="52;110;52" dur="4s" repeatCount="indefinite"/>

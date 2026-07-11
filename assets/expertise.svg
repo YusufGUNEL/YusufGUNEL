@@ -1,0 +1,46 @@
+<svg width="920" height="330" viewBox="0 0 920 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="pg" cx="20%" cy="30%" r="80%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="918" height="328" rx="14" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+  <rect x="1" y="1" width="918" height="328" rx="14" fill="url(#pg)"/>
+  <line x1="460" y1="36" x2="460" y2="294" stroke="#21262D" stroke-width="1"/>
+
+  <text x="60" y="40" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="600" letter-spacing="2" fill="#22D3EE">DOMAINS</text>
+  <text x="505" y="40" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="600" letter-spacing="2" fill="#818CF8">TOOLBOX</text>
+
+  <polygon points="210.0,132.4 240.9,150.2 240.9,185.8 210.0,203.6 179.1,185.8 179.1,150.2" fill="none" stroke="#30363D" stroke-width="1"/>
+  <polygon points="210.0,96.7 271.7,132.4 271.7,203.6 210.0,239.3 148.3,203.6 148.3,132.4" fill="none" stroke="#30363D" stroke-width="1"/>
+  <polygon points="210.0,60.0 303.5,114.0 303.5,222.0 210.0,276.0 116.5,222.0 116.5,114.0" fill="none" stroke="#30363D" stroke-width="1"/>
+  <line x1="210" y1="168" x2="210.0" y2="60.0" stroke="#30363D" stroke-width="1"/>
+  <line x1="210" y1="168" x2="303.5" y2="114.0" stroke="#30363D" stroke-width="1"/>
+  <line x1="210" y1="168" x2="303.5" y2="222.0" stroke="#30363D" stroke-width="1"/>
+  <line x1="210" y1="168" x2="210.0" y2="276.0" stroke="#30363D" stroke-width="1"/>
+  <line x1="210" y1="168" x2="116.5" y2="222.0" stroke="#30363D" stroke-width="1"/>
+  <line x1="210" y1="168" x2="116.5" y2="114.0" stroke="#30363D" stroke-width="1"/>
+  <polygon points="210.0,65.4 294.2,119.4 289.5,213.9 210.0,241.4 152.0,201.5 133.3,123.7" fill="#22D3EE" fill-opacity="0.16" stroke="#22D3EE" stroke-width="2" stroke-linejoin="round">
+    <animate attributeName="fill-opacity" values="0.10;0.22;0.10" dur="4s" repeatCount="indefinite"/>
+  </polygon>
+  <circle cx="210.0" cy="65.4" r="4" fill="#22D3EE"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="-0.0s" repeatCount="indefinite"/></circle>
+  <circle cx="294.2" cy="119.4" r="4" fill="#22D3EE"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="-0.4s" repeatCount="indefinite"/></circle>
+  <circle cx="289.5" cy="213.9" r="4" fill="#22D3EE"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="-0.8s" repeatCount="indefinite"/></circle>
+  <circle cx="210.0" cy="241.4" r="4" fill="#22D3EE"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="-1.2000000000000002s" repeatCount="indefinite"/></circle>
+  <circle cx="152.0" cy="201.5" r="4" fill="#22D3EE"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="-1.6s" repeatCount="indefinite"/></circle>
+  <circle cx="133.3" cy="123.7" r="4" fill="#22D3EE"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" begin="-2.0s" repeatCount="indefinite"/></circle>
+  <text x="210.0" y="40.2" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#E6EDF3">NLP</text>
+  <text x="324.1" y="106.1" text-anchor="start" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#E6EDF3">Computer Vision</text>
+  <text x="324.1" y="237.9" text-anchor="start" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#E6EDF3">Deep Learning</text>
+  <text x="210.0" y="303.8" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#E6EDF3">Backend</text>
+  <text x="95.9" y="237.9" text-anchor="end" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#E6EDF3">Embedded</text>
+  <text x="95.9" y="106.1" text-anchor="end" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#E6EDF3">Mobile</text>
+
+  <text x="505" y="70" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#E6EDF3">Python</text><rect x="505" y="78" width="330" height="8" rx="4" fill="#21262D"/><rect x="505" y="78" width="0" height="8" rx="4" fill="#22D3EE"><animate attributeName="width" from="0" to="314" dur="1.2s" begin="0.30s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect><circle cx="505" cy="82" r="0" fill="#22D3EE"><animate attributeName="cx" from="505" to="818" dur="1.2s" begin="0.30s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/><animate attributeName="r" from="0" to="5" dur="0.3s" begin="0.30s" fill="freeze"/></circle>
+  <text x="505" y="112" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#E6EDF3">PyTorch / TensorFlow</text><rect x="505" y="120" width="330" height="8" rx="4" fill="#21262D"/><rect x="505" y="120" width="0" height="8" rx="4" fill="#818CF8"><animate attributeName="width" from="0" to="280" dur="1.2s" begin="0.45s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect><circle cx="505" cy="124" r="0" fill="#818CF8"><animate attributeName="cx" from="505" to="786" dur="1.2s" begin="0.45s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/><animate attributeName="r" from="0" to="5" dur="0.3s" begin="0.45s" fill="freeze"/></circle>
+  <text x="505" y="154" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#E6EDF3">scikit-learn / OpenCV</text><rect x="505" y="162" width="330" height="8" rx="4" fill="#21262D"/><rect x="505" y="162" width="0" height="8" rx="4" fill="#F472B6"><animate attributeName="width" from="0" to="280" dur="1.2s" begin="0.60s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect><circle cx="505" cy="166" r="0" fill="#F472B6"><animate attributeName="cx" from="505" to="786" dur="1.2s" begin="0.60s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/><animate attributeName="r" from="0" to="5" dur="0.3s" begin="0.60s" fill="freeze"/></circle>
+  <text x="505" y="196" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#E6EDF3">Flutter / Dart</text><rect x="505" y="204" width="330" height="8" rx="4" fill="#21262D"/><rect x="505" y="204" width="0" height="8" rx="4" fill="#34D399"><animate attributeName="width" from="0" to="271" dur="1.2s" begin="0.75s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect><circle cx="505" cy="208" r="0" fill="#34D399"><animate attributeName="cx" from="505" to="776" dur="1.2s" begin="0.75s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/><animate attributeName="r" from="0" to="5" dur="0.3s" begin="0.75s" fill="freeze"/></circle>
+  <text x="505" y="238" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#E6EDF3">C / C++ / Java</text><rect x="505" y="246" width="330" height="8" rx="4" fill="#21262D"/><rect x="505" y="246" width="0" height="8" rx="4" fill="#FBBF24"><animate attributeName="width" from="0" to="231" dur="1.2s" begin="0.90s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect><circle cx="505" cy="250" r="0" fill="#FBBF24"><animate attributeName="cx" from="505" to="736" dur="1.2s" begin="0.90s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/><animate attributeName="r" from="0" to="5" dur="0.3s" begin="0.90s" fill="freeze"/></circle>
+  <text x="505" y="280" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#E6EDF3">Django / Docker / Git</text><rect x="505" y="288" width="330" height="8" rx="4" fill="#21262D"/><rect x="505" y="288" width="0" height="8" rx="4" fill="#60A5FA"><animate attributeName="width" from="0" to="218" dur="1.2s" begin="1.05s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect><circle cx="505" cy="292" r="0" fill="#60A5FA"><animate attributeName="cx" from="505" to="723" dur="1.2s" begin="1.05s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/><animate attributeName="r" from="0" to="5" dur="0.3s" begin="1.05s" fill="freeze"/></circle>
+</svg>

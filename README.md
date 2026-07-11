@@ -37,14 +37,11 @@
 
 <img src="https://raw.githubusercontent.com/YusufGUNEL/YusufGUNEL/main/assets/divider.svg" width="100%" alt="" />
 
-<samp>~/stats $ ./analyze --live</samp>
+<samp>~/skills $ ./visualize --expertise</samp>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YusufGUNEL&bg_color=0D1117&color=8B949E&line=22D3EE&point=F472B6&area=true&area_color=22D3EE&hide_border=true&custom_title=Contribution%20Activity" width="92%" alt="activity graph" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufGUNEL&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=8B949E&langs_count=8&hide=html,css,php" alt="top languages" />
-<img height="165" src="https://streak-stats.demolab.com/?user=YusufGUNEL&hide_border=true&background=0D1117&ring=22D3EE&fire=F472B6&currStreakLabel=22D3EE&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E" alt="streak" />
+<img src="https://raw.githubusercontent.com/YusufGUNEL/YusufGUNEL/main/assets/expertise.svg" width="92%" alt="expertise — NLP, Computer Vision, Deep Learning, Mobile, Embedded, Backend" />
 
 <img src="https://raw.githubusercontent.com/YusufGUNEL/YusufGUNEL/main/assets/divider.svg" width="100%" alt="" />
 
