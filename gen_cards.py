@@ -93,49 +93,60 @@ def orbit(accent):
             f'<animateTransform attributeName="transform" type="rotate" from="0 382 58" to="360 382 58" dur="5s" repeatCount="indefinite"/></circle></g>')
 
 cards = [
- dict(file="belediyeai", accent="#22D3EE", emoji="🏛️", title="BelediyeAI",
-      subtitle="TURKISH NLP · COMPLAINT TRIAGE",
-      line1="Classifies municipal complaints into 10 categories and 4 priority",
-      line2="levels — smart routing to the right department, end to end.",
-      tech=["Python","scikit-learn","NLP"], extra="nodes"),
- dict(file="medos", accent="#F472B6", emoji="🧠", title="MedOS Stroke Detection",
-      subtitle="MEDICAL AI · NEURO-DIAGNOSTICS",
-      line1="Deep learning system detecting stroke from brain imaging,",
-      line2="wrapped in a clinical-style diagnostic interface.",
-      tech=["Deep Learning","CV","Healthcare"], extra="pulse"),
- dict(file="speechquest", accent="#34D399", emoji="🎙️", title="SpeechQuest",
-      subtitle="OFFLINE STT · QUESTION GENERATION",
-      line1="Fully offline speech-to-text and automatic question generation —",
-      line2="audio, YouTube links and live microphone. Zero external APIs.",
-      tech=["Python","NLP","React"], extra="wave"),
- dict(file="officeguardian", accent="#FBBF24", emoji="👁️", title="OfficeGuardian",
+ dict(file="medos", accent="#F472B6", emoji="", title="MedOS Stroke Detection",
+      subtitle="MEDICAL AI · BRAIN CT SEGMENTATION",
+      line1="Segments ischemic stroke lesions on brain CT with an ensemble of",
+      line2="DeepLabV3+, Attention U-Net and YOLO11-seg, plus a risk score.",
+      tech=["PyTorch","Flask","Healthcare"], extra="pulse"),
+ dict(file="freesweep", accent="#34D399", emoji="", title="FreeSweep",
+      subtitle="MEDICAL IMAGING · 3D ULTRASOUND",
+      line1="Sensorless freehand 3D ultrasound reconstruction (TUS-REC):",
+      line2="drift cut from 86.9 mm to 14.4 mm, 83% below the baseline.",
+      tech=["PyTorch","6D rotation","Research"], extra="wave"),
+ dict(file="geoanchor", accent="#22D3EE", emoji="", title="GeoAnchor",
+      subtitle="GNSS-DENIED UAV LOCALIZATION",
+      line1="Locates a UAV without GPS by fusing visual odometry with",
+      line2="satellite-map matching in a particle filter — knows when it fails.",
+      tech=["DINOv2","LoFTR","OpenCV"], extra="radar"),
+ dict(file="novex", accent="#818CF8", emoji="", title="Novex",
+      subtitle="HEALTH TECH · CLINIC HACKATHON",
+      line1="Guided 5-angle photo capture after hair transplant, Gemini",
+      line2="pre-analysis and a doctor panel for approval and follow-up.",
+      tech=["Flutter","Firebase","ML Kit"], extra="spark"),
+ dict(file="pys", accent="#60A5FA", emoji="", title="PYS Project Management",
+      subtitle="FULL-STACK · .NET 10 WEB API",
+      line1="Projects, staff, documents and petitions for a municipal",
+      line2="software unit — JWT, SignalR chat, MinIO, PostgreSQL.",
+      tech=["ASP.NET Core","EF Core","SignalR"], extra="nodes"),
+ dict(file="pys-angular", accent="#EF4444", emoji="", title="PYS Angular",
+      subtitle="FRONTEND · ANGULAR 21 SPA",
+      line1="Standalone components and signals, real-time chat, role guards;",
+      line2="104 unit tests and a CI pipeline (format, lint, test, build).",
+      tech=["Angular","PrimeNG","Vitest"], extra="orbit"),
+ dict(file="brailletr", accent="#F97316", emoji="", title="BrailleTR",
+      subtitle="ACCESSIBILITY · IN DEVELOPMENT",
+      line1="Reads embossed Turkish Braille from a phone photo and speaks it;",
+      line2="new dot-detection engine with no trained model, license-clean.",
+      tech=["OpenCV","FastAPI","PWA"], extra="braille"),
+ dict(file="officeguardian", accent="#FBBF24", emoji="", title="OfficeGuardian",
       subtitle="REAL-TIME CV · WORKPLACE HEALTH",
-      line1="Posture and attention analysis through a standard webcam —",
-      line2="no wearable sensors, role-based health dashboards.",
-      tech=["Django","OpenCV","Python"], extra="eye"),
- dict(file="tanktespit", accent="#EF4444", emoji="🎯", title="TankTespit",
-      subtitle="OBJECT DETECTION · YOLOV8",
-      line1="Military vehicle detection trained on a custom dataset —",
-      line2="end-to-end YOLOv8 data prep and training pipeline.",
-      tech=["YOLOv8","PyTorch","CV"], extra="radar"),
- dict(file="vera", accent="#818CF8", emoji="💳", title="Vera",
-      subtitle="AI-NATIVE FINTECH · BTK HACKATHON",
-      line1="Next-gen mobile finance OS prototype powered by Gemini AI —",
-      line2="Android, iOS, Web and Desktop from one codebase.",
-      tech=["Flutter","Gemini AI","Riverpod"], extra="spark"),
- dict(file="handspeak", accent="#F97316", emoji="🤟", title="HandSpeak",
-      subtitle="ACCESSIBILITY · SIGN LANGUAGE",
-      line1="Sign language translation and learning — interactive lessons,",
-      line2="video practice tools and personalized profiles.",
-      tech=["Flutter","Firebase","Dart"], extra="orbit"),
- dict(file="travel", accent="#60A5FA", emoji="✈️", title="Travel Orchestration",
-      subtitle="MICROSERVICES · RESILIENT APIS",
-      line1="Distributed booking system with Circuit Breaker patterns",
-      line2="and composite endpoints — NestJS microservices on Docker.",
-      tech=["NestJS","Docker","Microservices"], extra="orbit"),
+      line1="Posture and attention tracking through a standard webcam;",
+      line2="images stay on the PC, only metrics reach the live dashboard.",
+      tech=["Django","MediaPipe","OpenCV"], extra="eye"),
 ]
 
-extras = dict(wave=wavebars, radar=radar, pulse=pulse, nodes=nodes, eye=eye, spark=spark, orbit=orbit)
+def braille(accent):
+    out = []
+    for i, (cx, cy, on) in enumerate([(362,36,1),(382,36,0),(362,58,1),(382,58,1),(362,80,0),(382,80,1),
+                                       (404,36,1),(424,36,1),(404,58,0),(424,58,1),(404,80,1),(424,80,0)]):
+        if on:
+            out.append(f'<circle cx="{cx-12}" cy="{cy}" r="6" fill="{accent}"><animate attributeName="opacity" '
+                       f'values="0.35;1;0.35" dur="2.4s" begin="-{i*0.2:.1f}s" repeatCount="indefinite"/></circle>')
+        else:
+            out.append(f'<circle cx="{cx-12}" cy="{cy}" r="6" fill="none" stroke="{accent}" stroke-opacity="0.35"/>')
+    return "<g>" + "".join(out) + "</g>"
+
+extras = dict(braille=braille, wave=wavebars, radar=radar, pulse=pulse, nodes=nodes, eye=eye, spark=spark, orbit=orbit)
 
 for c in cards:
     svg = TPL.format(accent=c["accent"], emoji=c["emoji"], title=html.escape(c["title"]),

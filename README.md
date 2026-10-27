@@ -18,20 +18,20 @@
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/YusufGUNEL/belediye-ai-sikayet-triaj"><img src="https://raw.githubusercontent.com/YusufGUNEL/YusufGUNEL/main/assets/cards/belediyeai.svg" width="100%" alt="BelediyeAI" /></a></td>
 <td width="50%"><a href="https://github.com/YusufGUNEL/MedOS-Stroke-Detection-V1"><img src="https://raw.githubusercontent.com/YusufGUNEL/YusufGUNEL/main/assets/cards/medos.svg" width="100%" alt="MedOS Stroke Detection" /></a></td>
+<td width="50%"><a href="https://github.com/YusufGUNEL/FreeSweep"><img src="https://raw.githubusercontent.com/YusufGUNEL/YusufGUNEL/main/assets/cards/freesweep.svg" width="100%" alt="FreeSweep" /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/YusufGUNEL/NLP_Project"><img src="https://raw.githubusercontent.com/YusufGUNEL/YusufGUNEL/main/assets/cards/speechquest.svg" width="100%" alt="SpeechQuest" /></a></td>
+<td width="50%"><a href="https://github.com/YusufGUNEL/GeoAnchor"><img src="https://raw.githubusercontent.com/YusufGUNEL/YusufGUNEL/main/assets/cards/geoanchor.svg" width="100%" alt="GeoAnchor" /></a></td>
+<td width="50%"><a href="https://github.com/YusufGUNEL/Novex-SHC-Hackathon-"><img src="https://raw.githubusercontent.com/YusufGUNEL/YusufGUNEL/main/assets/cards/novex.svg" width="100%" alt="Novex" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/YusufGUNEL/PYS"><img src="https://raw.githubusercontent.com/YusufGUNEL/YusufGUNEL/main/assets/cards/pys.svg" width="100%" alt="PYS Project Management" /></a></td>
+<td width="50%"><a href="https://github.com/YusufGUNEL/PYS-Angular"><img src="https://raw.githubusercontent.com/YusufGUNEL/YusufGUNEL/main/assets/cards/pys-angular.svg" width="100%" alt="PYS Angular" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/YusufGUNEL/BrailleTR"><img src="https://raw.githubusercontent.com/YusufGUNEL/YusufGUNEL/main/assets/cards/brailletr.svg" width="100%" alt="BrailleTR" /></a></td>
 <td width="50%"><a href="https://github.com/YusufGUNEL/OfficeGuardian"><img src="https://raw.githubusercontent.com/YusufGUNEL/YusufGUNEL/main/assets/cards/officeguardian.svg" width="100%" alt="OfficeGuardian" /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/YusufGUNEL/TankTespit"><img src="https://raw.githubusercontent.com/YusufGUNEL/YusufGUNEL/main/assets/cards/tanktespit.svg" width="100%" alt="TankTespit" /></a></td>
-<td width="50%"><a href="https://github.com/YusufGUNEL/Vera"><img src="https://raw.githubusercontent.com/YusufGUNEL/YusufGUNEL/main/assets/cards/vera.svg" width="100%" alt="Vera" /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/YusufGUNEL/HandSpeak"><img src="https://raw.githubusercontent.com/YusufGUNEL/YusufGUNEL/main/assets/cards/handspeak.svg" width="100%" alt="HandSpeak" /></a></td>
-<td width="50%"><a href="https://github.com/YusufGUNEL/travel-booking-orchestration"><img src="https://raw.githubusercontent.com/YusufGUNEL/YusufGUNEL/main/assets/cards/travel.svg" width="100%" alt="Travel Booking Orchestration" /></a></td>
 </tr>
 </table>
 

@@ -22,11 +22,11 @@
     <animate attributeName="width" values="52;110;52" dur="4s" repeatCount="indefinite"/>
   </rect>
 
-  <text x="26" y="106" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8B949E">Posture and attention analysis through a standard webcam —</text>
-  <text x="26" y="126" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8B949E">no wearable sensors, role-based health dashboards.</text>
+  <text x="26" y="106" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8B949E">Posture and attention tracking through a standard webcam;</text>
+  <text x="26" y="126" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" fill="#8B949E">images stay on the PC, only metrics reach the live dashboard.</text>
 
   <g><rect x="26" y="152" width="65" height="26" rx="13" fill="#FBBF24" fill-opacity="0.10" stroke="#FBBF24" stroke-opacity="0.45"/><text x="58.5" y="169" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#FBBF24">Django</text></g>
-  <g><rect x="101" y="152" width="65" height="26" rx="13" fill="#FBBF24" fill-opacity="0.10" stroke="#FBBF24" stroke-opacity="0.45"/><text x="133.5" y="169" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#FBBF24">OpenCV</text></g>
-  <g><rect x="176" y="152" width="65" height="26" rx="13" fill="#FBBF24" fill-opacity="0.10" stroke="#FBBF24" stroke-opacity="0.45"/><text x="208.5" y="169" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#FBBF24">Python</text></g>
+  <g><rect x="101" y="152" width="86" height="26" rx="13" fill="#FBBF24" fill-opacity="0.10" stroke="#FBBF24" stroke-opacity="0.45"/><text x="144.0" y="169" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#FBBF24">MediaPipe</text></g>
+  <g><rect x="197" y="152" width="65" height="26" rx="13" fill="#FBBF24" fill-opacity="0.10" stroke="#FBBF24" stroke-opacity="0.45"/><text x="229.5" y="169" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#FBBF24">OpenCV</text></g>
   <g><path d="M345 58 q37 -26 74 0 q-37 26 -74 0 Z" stroke="#FBBF24" stroke-width="2" fill="none"/><circle cx="382" cy="58" r="9" fill="#FBBF24" fill-opacity="0.25" stroke="#FBBF24" stroke-width="2"><animate attributeName="cx" values="382;390;374;382" dur="4s" repeatCount="indefinite"/></circle></g>
 </svg>
